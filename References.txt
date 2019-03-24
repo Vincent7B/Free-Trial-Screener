@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/A/B_testing
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://www.pardot.com/blog/abcs-ab-testing/
+https://www.exp-platform.com/Documents/2015%20Online%20Controlled%20Experiments_EncyclopediaOfMLDM.pdf
+https://s3-us-west-2.amazonaws.com/gae-supplemental-media/additional-techniquespdf/additional_techniques.pdf
+https://www.researchgate.net/publication/313262890_Learning_Sensitive_Combinations_of_AB_Test_Metrics
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996198/
+https://www.graphpad.com/quickcalcs/binomial1.cfm
+https://stats.stackexchange.com/questions/59202/stats-relationship-between-alpha-and-beta
+http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Power/BS704_Power_print.html
+http://www.evanmiller.org/ab-testing/sample-size.html
+https://conversionxl.com/ab-test-calculator/
+https://www.ncbi.nlm.nih.gov/pubmed/24697967
